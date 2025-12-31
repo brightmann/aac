@@ -180,6 +180,18 @@ export default function Books() {
               Sometimes I do feel like the bug.
             </p>
           </li>
+          <li>
+            Blue Sisters by Coco Mellors
+            <p className={styles.book_remarks}>
+              Love this. Its a story about grief, love & healing that revolves around <s>4</s>3 sisters.
+            </p>
+          </li>
+          <li>
+            Before the Coffee Gets Cold by Toshikazu Kawaguchi
+            <p className={styles.book_remarks}>
+              I am peculiarly drawn towards stories of grief, regret, & love.I must read the rest of the series.
+            </p>
+          </li>
         </ul>
 
         <h3 className={styles.genre}>Shorts</h3>
