@@ -31,12 +31,18 @@ export function generateRSSFeed() {
         link: `${config.siteUrl}${post.url}`,
         date: new Date(post.date),
         description: post.description,
-      }),
+      })
     );
 
   feed.addCategory("Programming");
 
-  return feed.rss2();
+  const rss = feed.rss2();
+  const stylesheetInstruction =
+    '<?xml-stylesheet type="text/xsl" href="/rss-styles.xsl"?>';
+  return rss.replace(
+    '<?xml version="1.0" encoding="utf-8"?>',
+    `<?xml version="1.0" encoding="utf-8"?>\n${stylesheetInstruction}`
+  );
 }
 
 export function createRSSFile() {
