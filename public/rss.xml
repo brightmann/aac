@@ -5,7 +5,7 @@
         <title>Aayush Kumar Sahu - Developer and Explorer</title>
         <link>https://aayushsahu.com</link>
         <description>aayushmau5' personal website</description>
-        <lastBuildDate>Fri, 12 Dec 2025 18:38:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jan 2026 15:39:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -16,6 +16,13 @@
         </image>
         <copyright>CC 2025, Aayush Kumar Sahu</copyright>
         <category>Programming</category>
+        <item>
+            <title><![CDATA[2025 Logs: AI Insights]]></title>
+            <link>https://aayushsahu.com/blog/2025-logs-ai-insight</link>
+            <guid>https://aayushsahu.com/blog/2025-logs-ai-insight</guid>
+            <pubDate>Tue, 13 Jan 2026 15:20:11 GMT</pubDate>
+            <description><![CDATA[I let AI write something about me]]></description>
+        </item>
         <item>
             <title><![CDATA[April Log]]></title>
             <link>https://aayushsahu.com/blog/april-2025-log</link>
@@ -43,6 +50,13 @@
             <guid>https://aayushsahu.com/blog/conditional-back-nextjs</guid>
             <pubDate>Thu, 16 Jun 2022 18:40:24 GMT</pubDate>
             <description><![CDATA[Checkout how can we modify going back in history behavior with NextJS]]></description>
+        </item>
+        <item>
+            <title><![CDATA[December Log]]></title>
+            <link>https://aayushsahu.com/blog/december-2025-log</link>
+            <guid>https://aayushsahu.com/blog/december-2025-log</guid>
+            <pubDate>Tue, 13 Jan 2026 15:04:08 GMT</pubDate>
+            <description><![CDATA[Things I did in December 2025]]></description>
         </item>
         <item>
             <title><![CDATA[Things I do before distro-hopping]]></title>
@@ -262,7 +276,7 @@
             <title><![CDATA[November Log]]></title>
             <link>https://aayushsahu.com/blog/november-2025-log</link>
             <guid>https://aayushsahu.com/blog/november-2025-log</guid>
-            <pubDate>Sun, 07 Dec 2025 17:39:05 GMT</pubDate>
+            <pubDate>Thu, 25 Dec 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[Things I did in November 2025]]></description>
         </item>
         <item>
