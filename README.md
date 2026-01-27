@@ -1,5 +1,8 @@
 # AAYUSHSAHU.COM
 
+> [!NOTE]
+> I have moved my website from NextJS to Phoenix. More info [here](https://aayushsahu.com/blog/nextjs-to-phoenix).
+
 My portfolio website powered by:
 
 - NextJS with TypeScript
